@@ -1,5 +1,5 @@
 # VEXCode-VR-Maze-Solve
-A maze solving python script for VEXcode VR.
+A maze solving python script for VEXcode VR. For a univeristy robotics project.
 
 ## Execution order
 1. Recursively maps maze until goal is found. Generates a graph data structure as a map of connected tiles.
