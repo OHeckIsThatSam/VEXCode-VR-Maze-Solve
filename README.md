@@ -10,10 +10,10 @@ A maze solving python script for VEXcode VR.
 ## Sources
 
 #### A* Search
-https://www.geeksforgeeks.org/a-search-algorithm/
-https://en.wikipedia.org/wiki/A*_search_algorithm
+https://www.geeksforgeeks.org/a-search-algorithm/  
+https://en.wikipedia.org/wiki/A*_search_algorithm  
 
 #### Maze Stuff
-https://en.wikipedia.org/wiki/Maze-solving_algorithm
-https://medium.com/nerd-for-tech/graph-traversal-in-python-a-algorithm-27c30d67e0d0
-https://stackoverflow.com/questions/3097556/programming-theory-solve-a-maze
+https://en.wikipedia.org/wiki/Maze-solving_algorithm  
+https://medium.com/nerd-for-tech/graph-traversal-in-python-a-algorithm-27c30d67e0d0  
+https://stackoverflow.com/questions/3097556/programming-theory-solve-a-maze  
