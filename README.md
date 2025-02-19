@@ -5,7 +5,7 @@ A maze solving python script for VEXcode VR. For a univeristy robotics project.
 Unlisted Youtube video: https://youtu.be/H0kmRyyo-nE  
 
 ## Execution order
-1. Recursively maps maze until goal is found. Generates a graph data structure as a map of connected tiles.
+1. Recursively maps maze until goal is found. Generates a graph with edges as connected tiles, represented as keys in a dictionary for each individual tile.
 2. Runs A* algorithm on the graph to find shortest path. Generates a list of Nodes with the shortest path being the connections between them.
 3. Parses the list of Nodes from the destination to the start as a list of tuples (coordinate changes) for the robot to follow.
 4. Moves the robot from the start to the destination based on the coordinate changes.
